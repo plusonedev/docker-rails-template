@@ -13,7 +13,7 @@ gem 'rails', '~> 6.1.0'
 gem 'redis', '~> 4.2'
 gem 'sass-rails', '>= 6'
 gem 'sentry-raven', '~> 3.1'
-gem 'sidekiq', '~> 6.1'
+gem 'sidekiq', '~> 6.5'
 gem 'sidekiq-cron', '~> 1.2'
 gem 'turbolinks', '~> 5'
 gem 'tzinfo-data', platforms: %i[mingw mswin x64_mingw jruby]
